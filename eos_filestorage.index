@@ -1,0 +1,23 @@
+data={
+	{
+		egs_id="save games/autosave.eu4"
+		local_checksum="66A1779F11250749D7EF2309373B2717"
+		server_checksum="8D9B5E920125D6BC46436D6222068296"
+	}
+ {
+		egs_id="save games/old_autosave.eu4"
+		local_checksum="D6687EFF0320C2B0D2258DC9A3DEF8FF"
+		server_checksum="3CFFB1197D7E75448051ABA8C4531E6E"
+	}
+ {
+		egs_id="save games/older_autosave.eu4"
+		local_checksum="D6687EFF0320C2B0D2258DC9A3DEF8FF"
+		server_checksum="3AB50CC9C62C0FA696B1F1027000905A"
+	}
+ {
+		egs_id="save games/autosave_cloudbackup.eu4"
+		local_checksum="80DD853379E659C2497F8CDE25D9E5FE"
+		server_checksum="E676B792DF393BB6B524411F46F244A3"
+	}
+ 
+}

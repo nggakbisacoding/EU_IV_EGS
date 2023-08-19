@@ -1,0 +1,6 @@
+[main.cpp:1345]: Failed to backup error log
+[fixedwindow.cpp:2954]: interface/frontend.gui: Missing Button 'homepage_button' in window 'mainmenu_panel_bottom'.
+[fixedwindow.cpp:2954]: interface/frontend.gui: Missing Button 'forum_button' in window 'mainmenu_panel_bottom'.
+[fixedwindow.cpp:2954]: interface/frontend.gui: Missing Button 'facebook_button' in window 'mainmenu_panel_bottom'.
+[fixedwindow.cpp:2954]: interface/frontend.gui: Missing Button 'twitter_button' in window 'mainmenu_panel_bottom'.
+[fixedwindow.cpp:2954]: interface/frontend.gui: Missing Button 'social_view_button' in window 'mainmenu_panel_bottom'.

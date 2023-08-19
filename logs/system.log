@@ -1,0 +1,68 @@
+[systemsettings.cpp:208]: System memory:   7013MB
+[systemsettings.cpp:215]: CPU speed:       0MHz
+[systemsettings.cpp:220]: Number of processors: 8
+[systemsettings.cpp:226]: CPU type: x64
+[systemsettings.cpp:281]: OS: Windows 8     Build: 9200
+[gfx_dx9.cpp:4080]: Loading settings for adapter -1, fullscreen=0, multisample=15
+[gfx_dx9.cpp:4112]: Graphic Adapters: 
+[gfx_dx9.cpp:4120]: 	0: AMD Radeon(TM) Graphics
+[gfx_dx9.cpp:4142]: Using Adapter [0] to check for multi-sampling support:
+[gfx_dx9.cpp:4161]: Using Adapter [0]:
+[gfx_dx9.cpp:4170]: Graphics device: AMD Radeon(TM) Graphics
+[gfx_dx9.cpp:4171]: Graphics driver: aticfx64.dll
+[gfx_dx9.cpp:4172]: Driver version: 8004
+[gfx_dx9.cpp:4215]: Attempting to Create Device for Adapter 0 ...
+[gfx_dx9.cpp:4222]: Succeeded to create a device [D3DCREATE_HARDWARE_VERTEXPROCESSING].
+[gfx_dx9.cpp:4275]: 
+
+
+Dumping all gfx info:
+DeviceIdentifier:	{D7B71EE2-550C-11CF-5E6B-272578C2D635}
+VendorId:	4098
+DeviceId:	5708
+SubSysId:	1066735530
+Revision:	195
+DriverVersion.HighPart:	1769492
+DriverVersion.LowPart:	984751940
+
+
+[gfx_dx9.cpp:4294]: Instancing supported.
+[gfx_dx9.cpp:4304]: Video memory amount: 1008MB
+[gfx_dx9.cpp:4305]: MaxSimultaneousTextures: 8
+[gfx_dx9.cpp:4306]: MaxVertexBlendMatrices: 4
+[gfx_dx9.cpp:4307]: MaxVertexBlendMatrixIndex: 8
+[gfx_dx9.cpp:4308]: MaxSimultaneousTextures: 8
+[gfx_dx9.cpp:4309]: MaxTextureBlendStages: 8
+[gfx_dx9.cpp:4310]: MaxTextureWidth: 16384
+[gfx_dx9.cpp:4311]: MaxTextureHeight: 16384
+[gfx_dx9.cpp:4314]: Vertex Shader version: 3.0
+[gfx_dx9.cpp:4320]: Pixel Shader version: 3.0
+[graphicssettings.cpp:153]: 	2 samples supported.
+[graphicssettings.cpp:153]: 	4 samples supported.
+[graphicssettings.cpp:153]: 	8 samples supported.
+[graphicssettings.cpp:191]: Support for Anisotropic filtering found.
+[graphicssettings.cpp:195]: 	Max Anisotropic filtering supported: 16
+[graphicssettings.cpp:196]: 	Anisotropic filtering set to: 4
+[main.cpp:1554]: EU4 Version Jun 29 2023 : 19:18:41
+[main.cpp:1563]: Creating application...
+[main.cpp:1609]: Initializing application...
+[main.cpp:1610]: Language: l_english
+[eu4application.cpp:627]: Initializing application...
+[eu4application.cpp:634]: Done initializing application
+[eu4application.cpp:641]: Loading cursor...
+[eu4application.cpp:715]: Done loading cursor
+[eu4application.cpp:717]: Initializing sound...
+[eu4application.cpp:732]: Done initializing sound
+[eu4application.cpp:734]: Initializing graphics...
+[graphicssettings.cpp:741]: Not using multisampling.
+[graphics.cpp:797]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=no
+	Resolution=1280x720
+[graphicssettings.cpp:698]: Usable res: 640 480 60
+[graphicssettings.cpp:698]: Usable res: 800 600 60
+[graphicssettings.cpp:698]: Usable res: 1024 768 60
+[graphicssettings.cpp:698]: Usable res: 1280 720 60
+[graphicssettings.cpp:698]: Usable res: 1366 768 60
+[graphics.cpp:831]: Done creating device.
+[eu4application.cpp:859]: Done initializing graphics
+[main.cpp:1712]: Running application...

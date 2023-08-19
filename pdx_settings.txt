@@ -1,0 +1,24 @@
+"Graphics"={
+	"display_mode"={
+		value="windowed"
+		version=0
+	}
+	"display_index"={
+		value="0"
+		version=0
+	}
+	"fullscreen_resolution"={
+		value="1366x768"
+		version=0
+	}
+	"windowed_resolution"={
+		value="1280x720"
+		version=0
+	}
+}
+"System"={
+	"language"={
+		value="l_english"
+		version=0
+	}
+}
